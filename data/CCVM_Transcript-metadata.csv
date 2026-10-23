@@ -1,0 +1,162 @@
+ID,Date_collected,Folder,File_name,Source,Parent_response_rowN,Programme,Episode_N,Episode_name,Length_seconds,Country,Style,Fiction,Wave,Survey,Year_released,English variety
+1,17/06/2024,6-Parents_3,1_thomas-and-friends_22_8_3yos_170624.txt,BoB,227,Thomas and Friends,S22 E8,Thomas and the Monkey Palace,628,UK,Cartoon,Fiction,1,Parent,2018,British
+2,07/06/2024,6-Parents_3,2_blippi_3yos_070624.txt,YouTube transcription,57,Blippi,NA,Learning Shapes and Colors with Blippi at Kidsville Indoor Playground!,786,USA,Live-action,Non-fiction,1,Parent,2023,American
+3,24/06/2024,6-Parents_3,3_mickey-mouse-funhouse_2_18_3yos_240624.txt,Manual,37,Mickey Mouse Funhouse,S2 E18,"Dino See, Dino Do / Pete the Mighty Baby!",1412,USA,Cartoon,Fiction,1,Parent,2024,American
+4,07/06/2024,6-Parents_3,4_peppa-pig_6_1_3yos_070624.txt,Manual,40,Peppa Pig,S6 E1,The Queen/Desert Island/Perfume/The Children's Fete,1099,UK,Cartoon,Fiction,1,Parent,2012,British
+5,06/06/2024,6-Parents_3,5_mickey-mouse-clubhouse_3_11_3yos_060624.txt,Subtitle file,36,Mickey Mouse Clubhouse,S3 E11,Road Rally,1410,USA,Cartoon,Fiction,1,Parent,2011,American
+6,10/06/2024,6-Parents_3,6_colourblocks_2_12_3yos_100624.txt,BoB,250,Colourblocks,S2 E12,It's a Grey Day,290,UK,Cartoon,Fiction,1,Parent,2024,British
+7,18/06/2024,6-Parents_3,7_toot-toot-cory-carson_1_5_3yos_180624.txt,Manual,62,Toot-Toot Cory Carson,S1 E5,Fire Station,450,USA,Cartoon,Fiction,1,Parent,2020,American
+8,06/06/2024,6-Parents_3,8_bluey_1_21_3yos_060624.txt,Subtitle file,15,Bluey,S1 E21,Blue Mountains,403,Australia,Cartoon,Fiction,1,Parent,2018,Australian
+9,07/06/2024,6-Parents_3,9_peppa-pig_2_11_3yos_070624.txt,YouTube transcription,56,Peppa Pig,S2 E11,Pen Pal/Granny and Grandpa's Attic/The Quarrel/The Toy Cupboard,1099,UK,Cartoon,Fiction,1,Parent,2007,British
+10,20/06/2024,6-Parents_3,10_ms-rachel_3yos_200624.txt,YouTube transcription,229,Ms Rachel,NA,Talking Time with Ms Rachel - Baby Videos for Babies and Toddlers - Speech Delay Learning Video,1808,USA,Live-action,Both,1,Parent,2021,American
+11,11/06/2024,6-Parents_3,11_peppa-pig_3_6_3yos_110624.txt,YouTube transcription,127,Peppa Pig,S3 E6,Goldie the Fish / Funfair / Numbers / Digging Up the Road,1099,UK,Cartoon,Fiction,1,Parent,2009,British
+12,17/06/2024,6-Parents_3,12_balamory_4_21_3yos_170624.txt,YouTube transcription,55,Balamory,S4 E21,Slippy,1124,UK,Live-action,Fiction,1,Parent,2005,British
+13,19/06/2024,6-Parents_3,13_teletubbies_1_39_3yos_190624.txt,Manual,206,Teletubbies,S1 E39,Purple,821,UK,Live-action,Both,1,Parent,2016,British
+14,11/06/2024,6-Parents_3,14_peppa-pig_1_13_3yos_110624.txt,YouTube transcription,181,Peppa Pig,S1 E13,Shoppping / My Birthday Party / Daddy's Movie Camera / School Play,1099,UK,Cartoon,Fiction,1,Parent,2004,British
+15,18/06/2024,6-Parents_3,15_pokemon-journeys_1_31_3yos_180624.txt,Manual,12,Pokémon Journeys,S1 E31,The Cuteness Quotient!,1250,Japan,Cartoon,Fiction,1,Parent,2020,American
+16,11/06/2024,6-Parents_3,16_peppa-pig_5_4_3yos_110624.txt,YouTube transcription,216,Peppa Pig,S5 E4,Captain Daddy Dog / Grampy Rabbit's Dinosaur Park / Bedtime Story / Lost Keys,1099,UK,Cartoon,Fiction,1,Parent,2011,British
+17,14/06/2024,6-Parents_3,17_blippi_3yos_140624.txt,YouTube transcription,52,Blippi,NA,Blippi's Baseball Fun: Up to Bat Adventures,1082,USA,Live-action,Non-fiction,1,Parent,2024,American
+18,17/06/2024,6-Parents_3,18_andys-prehistoric-adventures_3yos_170624.txt,BoB,60,Andy's Prehistoric Adventures,S1 E8,Leptictidium and Fig,822,UK,Live-action,Both,1,Parent,2016,British
+19,17/06/2024,6-Parents_3,19_tee-and-mo_1_1_3yos_170624.txt,BoB,207,Tee and Mo,S1 E1,Face Wipe,399,UK,Cartoon,Fiction,1,Parent,2018,British
+20,14/06/2024,6-Parents_3,20_alphablocks_4_13_3yos_140624.txt,BoB,249,Alphablocks,S4 E13,Cowboy,290,UK,Cartoon,Both,1,Parent,2013,British
+21,14/06/2024,6-Parents_3,21_hey-duggee_1_46_3yos_140624.txt,BoB,211,Hey Duggee,S1 E46,The Bubble Badge,403,UK,Cartoon,Fiction,1,Parent,2015,British
+22,17/06/2024,6-Parents_3,22_twirlywoos_3_15_3yos_170624.txt,BoB,2,Twirlywoos,S3 E15,More About Inside,657,UK,Combination,Both,1,Parent,2016,British
+23,24/06/2024,6-Parents_3,23_cocomelon_9_1_3yos_170624.txt,Manual,134,Cocomelon,S9 E1,Nina's Familia,1951,USA,Cartoon,Fiction,1,Parent,2020,American
+24,24/06/2024,6-Parents_3,24_paw-patrol_2_11_3yos_240624.txt,Subtitle file,7,PAW Patrol,S2 E11,Pups Save the Parrot / Pups Save the Queen Bee,1363,Canada,Cartoon,Fiction,1,Parent,2014,British
+25,24/06/2024,6-Parents_3,25_bluey_1_16_3yos_240624.txt,Subtitle file,110,Bluey,S1 E16,Yoga Ball,422,Australia,Cartoon,Fiction,1,Parent,2018,Australian
+26,10/06/2024,7-Parents_4,26_bluey_1_2_4yos_100624.txt,Subtitle file,405,Bluey,S1 E2,Hospital,422,Australia,Cartoon,Fiction,1,Parent,2018,Australian
+27,10/06/2024,7-Parents_4,27_octonauts_1_48_4yos_100624.txt,BoB,266,Octonauts,S1 E48,The Lost Lemon Shark,645,UK,Cartoon,Fiction,1,Parent,2010,British
+28,10/06/2024,7-Parents_4,28_bluey_1_9_4yos_100624.txt,Subtitle file,352,Bluey,S1 E9,Horsey Ride,422,Australia,Cartoon,Fiction,1,Parent,2018,Australian
+29,10/06/2024,7-Parents_4,29_paw-patrol_2_4_4yos_100624.txt,Subtitle file,390,PAW Patrol,S2 E4,Pups Save the Diving Bell / Pups Save the Beavers,1364,Canada,Cartoon,Fiction,1,Parent,2014,British
+30,10/06/2024,7-Parents_4,30_bedtime-stories_4yos_100624.txt,BoB,344,Bedtime Stories,NA,The Doctor - The Way Back Home,288,UK,Combination,Fiction,1,Parent,2023,British
+31,10/06/2024,7-Parents_4,31_bluey_1_25_4yos_100624.txt,Subtitle file,291,Bluey,S1 E25,Taxi,422,Australia,Cartoon,Fiction,1,Parent,2018,Australian
+32,10/06/2024,7-Parents_4,32_peppa-pig_2_9_4yos_100624.txt,YouTube transcription,323,Peppa Pig,S2 E9,Zoe Zebra / Cuckoo Clock / Ice Skating / The Long Grass,1099,UK,Cartoon,Fiction,1,Parent,2007,British
+33,10/06/2024,7-Parents_4,33_odd-squad_1_6_4yos_100624.txt,BoB,428,Odd Squad,S1 E6,Blob on the Job,660,UK,Live-action,Fiction,1,Parent,2014,British
+34,10/06/2024,7-Parents_4,34_waffle-the-wonder-dog_1_2_4yos_100624.txt,BoB,430,Waffle the Wonder Dog,S1 E2,"Night Night, Waffle",640,UK,Live-action,Fiction,1,Parent,2018,British
+35,10/06/2024,7-Parents_4,35_bluey_1_20_4yos_100624.txt,Subtitle file,271,Bluey,S1 E20,Markets,411,Australia,Cartoon,Fiction,1,Parent,2018,Australian
+36,19/06/2024,7-Parents_4,36_hot-wheels-lets-race_1_3_4yos_190624.txt,Manual,442,Hot Wheels Let's Race,S1 E3,Keeping the Pace / Car Wash Catastrophe,1350,USA,Cartoon,Fiction,1,Parent,2024,American
+37,10/06/2024,7-Parents_4,37_paw-patrol_4_1_4yos_100624.txt,Subtitle file,287,PAW Patrol,S4 E1,Pups Save a Blimp / Pups Save a Chili Cook-Out,1369,Canada,Cartoon,Fiction,1,Parent,2017,British
+38,14/06/2024,7-Parents_4,38_blippi_4yos_140624.txt,YouTube transcription,360,Blippi,NA,Blippi Visits Build a Bear Workshop!,1131,USA,Live-action,Non-fiction,1,Parent,2024,American
+39,17/06/2024,7-Parents_4,39_paw-patrol_2_22_4yos_170624.txt,Subtitle file,313,PAW Patrol,S2 E22,Pups Save a Snowboard Competition / Pups Save a Chicken of the Sea,1380,Canada,Cartoon,Fiction,1,Parent,2014,British
+40,01/07/2024,7-Parents_4,40_jojo-and-gran-gran_3_42_4yos_010724.txt,Manual,431,JoJo & Gran Gran,S3 E42,It's Time to Bake Gingerbread Pandas,614,UK,Cartoon,Fiction,1,Parent,2023,British
+41,17/06/2024,7-Parents_4,41_zog_4yos_170624.txt,BoB,399,Zog,NA,Zog,1545,UK,Cartoon,Fiction,1,Parent,2019,British
+42,11/06/2024,7-Parents_4,42_bluey_1_26_4yos_110624.txt,Subtitle file,255,Bluey,S1 E26,The Beach,422,Australia,Cartoon,Fiction,1,Parent,2018,Australian
+43,14/06/2024,7-Parents_4,43_blippi_4yos_140624.txt,YouTube transcription,300,Blippi,NA,Blippi Becomes a Dino Explorer!,842,USA,Live-action,Non-fiction,1,Parent,2024,American
+44,14/06/2024,7-Parents_4,44_blippi_4yos_140624.txt,YouTube transcription,391,Blippi,NA,Blippi Plays Soccer at the Liverpool Football Club!,751,USA,Live-action,Non-fiction,1,Parent,2023,American
+45,25/06/2024,7-Parents_4,45_ninjago_4_14_4yos_250624.txt,Manual,310,Ninjago,S4 E14,The Spider's Design,645,Canada,Cartoon,Fiction,1,Parent,2022,British
+46,02/07/2024,7-Parents_4,46_llama-llama_1_5_4yos_020724.txt,Manual,324,Llama Llama,S1 E5,Llama Llama Shopping Drama / Lucky Pyjamas,1375,USA,Cartoon,Fiction,1,Parent,2018,American
+47,25/06/2024,7-Parents_4,47_masha-and-the-bear_4_3_4yos_250624.txt,Manual,401,Masha and the Bear,S4 E3,The Secret of Mashuko / When Cacti Bloom / Tales From the East,1114,Russia,Cartoon,Fiction,1,Parent,2019,American
+48,02/07/2024,7-Parents_4,48_pinkfong_4yos_020724.txt,YouTube transcription,412,Pinkfong,NA,The Super Eagle Contest,365,South Korea,Cartoon,Fiction,1,Parent,2024,American
+49,02/07/2024,7-Parents_4,49_hey-duggee_3_45_4yos_020724.txt,BoB,370,Hey Duggee,S3 E45,The Action Hero Badge,411,UK,Cartoon,Fiction,1,Parent,2019,British
+50,16/07/2024,7-Parents_4,50_jojo-and-gran-gran_1_24_4yos_160724.txt,Manual,261,JoJo & Gran Gran,S1 E24,It's Time to Make a Film,625,UK,Cartoon,Fiction,1,Parent,2020,British
+51,14/06/2024,8-Parents_5,51_hey-duggee_3_2_5yos_140624.txt,BoB,514,Hey Duggee,S3 E2,The Duck Badge,403,UK,Cartoon,Fiction,1,Parent,2019,British
+52,01/07/2024,8-Parents_5,52_the-simpsons_30_3_5yos_010724.txt,Manual,590,The Simpsons,S30 E3,My Way or the Highway to Heaven,1239,USA,Cartoon,Fiction,1,Parent,2018,American
+53,11/06/2024,8-Parents_5,53_peppa-pig_6_3_5yos_110624.txt,YouTube transcription,536,Peppa Pig,S6 E3,Night Animals / Flying on Holiday / The Holiday House / Holiday in the Sun,1099,UK,Cartoon,Fiction,1,Parent,2012,British
+54,01/07/2024,8-Parents_5,54_spongebob-squarepants_7_19_5yos_010724.txt,Manual,587,SpongeBob SquarePants,S7 E19,The Abrasive Side / Earworm,1365,USA,Cartoon,Fiction,1,Parent,2010,American
+55,02/07/2024,8-Parents_5,55_tractor-ted_1_2_5yos_020724.txt,YouTube transcription,518,Tractor Ted,S1 E2,Moooovie Time,599,UK,Live-action,Both,1,Parent,2022,British
+56,05/07/2024,8-Parents_5,56_cocomelon_3_2_5yos_050724.txt,Manual,633,Cocomelon,S3 E2,Learning With JJ,2080,USA,Cartoon,Fiction,1,Parent,2020,American
+57,02/07/2024,8-Parents_5,57_something-special_10_22_5yos_020724.txt,BoB,635,Something Special: We're all friends,S10 E22,Hobbies,1113,UK,Live-action,Both,1,Parent,2016,British
+58,14/06/2024,8-Parents_5,58_colourblocks_1_4_5yos_140624.txt,BoB,626,Colourblocks,S1 E4,Red Meets Blue,290,UK,Cartoon,Both,1,Parent,2022,British
+59,16/07/2024,8-Parents_5,59_toot-toot-cory-carson_2_1_5yos_160724.txt,Manual,638,Toot-Toot Cory Carson,S2 E1,Copy Car,430,USA,Cartoon,Fiction,1,Parent,2020,American
+60,16/07/2024,8-Parents_5,60_teen-titans-go_5_1_5yos_160724.txt,Manual,583,Teen Titans Go!,S5 E1,The Scoop / Chicken in the Cradle,1205,USA,Cartoon,Fiction,1,Parent,2018,American
+61,17/06/2024,8-Parents_5,61_octonauts_3_18_5yos_170624.txt,BoB,560,Octonauts,S3 E18,Urchin Invasion,644,UK,Cartoon,Fiction,1,Parent,2013,British
+62,16/07/2024,8-Parents_5,62_hot-wheels-lets-race_1_7_5yos_160724.txt,Manual,519,Hot Wheels Let's Race,S1 E7,Pizza with Extra Venom / Shifting Gears,1323,USA,Cartoon,Fiction,1,Parent,2024,American
+63,16/07/2024,8-Parents_5,63_cocomelon_5_2_5yos_160724.txt,Manual,568,Cocomelon,S5 E2,It's Time to Celebrate,2013,USA,Cartoon,Fiction,1,Parent,2020,American
+64,02/07/2024,8-Parents_5,64_little-brown-bear_1_9_5yos_020724.txt,YouTube transcription,483,Little Brown Bear,S1 E9,Little Brown Bear Goes Climbing,165,France,Cartoon,Fiction,1,Parent,2003,British
+65,14/06/2024,8-Parents_5,65_numberblocks_1_4_5yos_140624.txt,Subtitle file,546,Numberblocks,S1 E4,Three,290,UK,Cartoon,Both,1,Parent,2017,British
+66,02/07/2024,8-Parents_5,66_something-special_11_4_5yos_020724.txt,BoB,460,Something Special: We're all friends,S11 E4,Radio Star,1235,UK,Live-action,Both,1,Parent,2018,British
+67,08/07/2024,8-Parents_5,67_the-toddler-club_1_3_5yos_080724.txt,BoB,504,The Toddler Club,S1 E3,Our Senses,806,UK,Live-action,Non-fiction,1,Parent,2022,British
+68,17/06/2024,8-Parents_5,68_paw-patrol_2_16_5yos_170624.txt,Subtitle file,473,PAW Patrol,S2 E16,Pups Save a Sniffle / Pups and the Ghost Cabin,1380,Canada,Cartoon,Fiction,1,Parent,2014,British
+69,11/06/2024,8-Parents_5,69_bluey_1_10_5yos_110624.txt,Subtitle file,596,Bluey,S1 E10,Hotel,422,Australia,Cartoon,Fiction,1,Parent,2018,Australian
+70,16/07/2024,8-Parents_5,70_the-brilliant-world-of-tom-gates_1_20_5yos_160724.txt,Manual,641,The Brilliant World of Tom Gates,S1 E20,Tell It Like It Is,670,UK,Cartoon,Fiction,1,Parent,2021,British
+71,15/07/2024,8-Parents_5,71_monsters-at-work_2_10_5yos_150724.txt,Manual,561,Monsters at Work,S2 E10,Powerless,1828,USA,Cartoon,Fiction,1,Parent,2024,American
+72,17/07/2024,8-Parents_5,72_spongebob-squarepants_6_4_5yos_170724.txt,Manual,580,SpongeBob SquarePants,S6 E4,Not Normal / Gone,1364,USA,Cartoon,Fiction,1,Parent,2008,American
+73,08/07/2024,8-Parents_5,73_twirlywoos_3_21_5yos_080724.txt,BoB,576,Twirlywoos,S3 E21,More About Spinning,655,UK,Combination,Both,1,Parent,2016,British
+74,08/07/2024,8-Parents_5,74_supertato_1_13_5yos_080724.txt,BoB,488,Supertato,S1 E13,Double Doughnut Rescue,401,UK,Cartoon,Fiction,1,Parent,2022,British
+75,08/07/2024,8-Parents_5,75_bluey_1_6_5yos_080724.txt,Subtitle file,457,Bluey,S1 E6,The Weekend,422,Australia,Cartoon,Fiction,1,Parent,2018,Australian
+76,30/07/2024,6-Parents_3,76_the-tiger-who-came-to-tea_3yos_300724.txt,Subtitle file,99,The Tiger Who Came to Tea,NA,The Tiger Who Came to Tea,1365,UK,Cartoon,Fiction,2,Parent,2019,British
+77,22/07/2024,6-Parents_3,77_bluey_1_13_3yos_220724.txt,Subtitle file,42,Bluey,S10 E13,Spy Game,422,Australia,Cartoon,Fiction,2,Parent,2018,Australian
+78,22/07/2024,6-Parents_3,78_paw-patrol_2_3_3yos_220724.txt,Subtitle file,166,PAW Patrol,S2 E3,Pups Save Jake / Pups Save the Parade,1365,Canada,Cartoon,Fiction,2,Parent,2014,British
+79,31/07/2024,6-Parents_3,79_making-fun_1_8_3yos_310724.txt,Manual,117,Making Fun,S1 E8,Catapoop vs Trepoochet,2100,USA,Live-action,Non-fiction,2,Parent,2022,American
+80,22/07/2024,6-Parents_3,80_paw-patrol_2_1_3yos_220724.txt,Subtitle file,132,PAW Patrol,S2 E1,Pups Save the Penguins / Pups Save a Dolphin Pup,1365,Canada,Cartoon,Fiction,2,Parent,2014,British
+81,30/07/2024,7-Parents_4,81_gladiators_1_11_4yos_300724.txt,BoB,294,Gladiators,S1 E11,The Final,2100,UK,Live-action,Non-fiction,2,Parent,2024,British
+82,22/07/2024,7-Parents_4,82_go-dog-go_2_4_4yos_220724.txt,Subtitle file,298,"Go, Dog. Go!",S2 E4,Frank and Beans with Chili / Little Hound on the Prairie,1360,USA,Cartoon,Fiction,2,Parent,2021,British
+83,22/07/2024,7-Parents_4,83_something-special_10_4_4yos_220724.txt,BoB,258,Something Special: Hello Mr Tumble,S10 E4,Imagination,1114,UK,Live-action,Both,2,Parent,2016,British
+84,30/07/2024,7-Parents_4,84_ms-rachel_4yos_300724.txt,YouTube transcription,388,Ms Rachel,NA,Baby’s First Words with Ms Rachel - Videos for Babies,1802,USA,Live-action,Both,2,Parent,2023,American
+85,22/07/2024,7-Parents_4,85_peter-rabbit_2_1_4yos_220724.txt,BoB,269,Peter Rabbit,S2 E1,The Tale of the Puddleduck Disaster,700,UK,Cartoon,Fiction,2,Parent,2014,British
+86,31/07/2024,8-Parents_5,86_mr-bean_3_26_5yos_310724.txt,Manual,599,Mr Bean: The Animated Series,S3 E26,Trophy Bean,630,UK,Cartoon,Fiction,2,Parent,2004,British
+87,01/08/2024,8-Parents_5,87_mighty-morphin-power-rangers_1_16_5yos_010824.txt,Manual,526,Mighty Morphin Power Rangers,S1 E16,Switching Places,1180,USA,Live-action,Fiction,2,Parent,1993,American
+88,22/07/2024,8-Parents_5,88_octonauts_3_3_5yos_220724.txt,BoB,567,Octonauts,S3 E3,Cone Snails,645,UK,Cartoon,Fiction,2,Parent,2013,British
+89,22/07/2024,8-Parents_5,89_bluey_1_14_5yos_220724.txt,Subtitle file,556,Bluey,S1 E14,Takeaway,422,Australia,Cartoon,Fiction,2,Parent,2018,Australian
+90,01/08/2024,8-Parents_5,90_spongebob-squarepants_5_10_5yos_010824.txt,Manual,644,SpongeBob SquarePants,S5 E10,A Flea in her Dome / Donut of Shame / The Krusty Plate,1360,USA,Cartoon,Fiction,2,Parent,2007,American
+91,19/08/2024,6-Parents_3,91_sarah-and-duck_1_13_3yos_190824.txt,Subtitle file,86,Sarah & Duck,S1 E13,Woollen Music,405,UK,Cartoon,Fiction,3,Parent,2013,British
+92,19/08/2024,6-Parents_3,92_paw-patrol_2_26_3yos_190824.txt,Subtitle file,189,PAW Patrol,S2 E26,Pups' Jungle Trouble,710,Canada,Cartoon,Fiction,3,Parent,2014,British
+93,27/08/2024,6-Parents_3,93_cocomelon_6_1_3yos_270824.txt,Manual,228,Cocomelon,S6 E1,Fun with Family and Friends,1960,USA,Cartoon,Fiction,3,Parent,2020,American
+94,27/08/2024,6-Parents_3,94_t-rex-ranch_1_5_3yos_270824.txt,Manual,108,T-Rex Ranch,S1 E5,Ranger Orson's Birthday Cake Surprise! - Find the Baby Dinosaurs,628,USA,Live-action,Fiction,3,Parent,2021,American
+95,19/08/2024,6-Parents_3,95_vida-the-vet_1_4_3yos_190824.txt,BoB,171,Vida the Vet,S1 E4,Fergie’s Horrible Hiccups,658,Canada,Cartoon,Fiction,3,Parent,2024,British
+96,19/08/2024,7-Parents_4,96_ms-rachel_4yos_190824.txt,YouTube transcription,366,Ms Rachel,NA,Learning with Ms Rachel | Learn Words and Colors for Toddlers | Educational Kids Videos | Animals,1807,USA,Live-action,Both,3,Parent,2022,American
+97,19/08/2024,7-Parents_4,97_yakka-dee_3_8_4yos_190824.txt,BoB,359,Yakka Dee,S3 E8,Mango,286,UK,Cartoon,Non-fiction,3,Parent,2019,British
+98,19/08/2024,7-Parents_4,98_spidey-and-his-amazing-friends_2_9_4yos_190824.txt,Subtitle file,346,Spidey and His Amazing Friends,S2 E9,An Egg-Cellent Adventure / The Hangout Headache,1414,USA,Cartoon,Fiction,3,Parent,2022,American
+99,19/08/2024,7-Parents_4,99_jojo-and-gran-gran_3_6_4yos_190824.txt,BoB,270,JoJo & Gran Gran,S3 E6,It's Time to Make Music,628,UK,Cartoon,Fiction,3,Parent,2023,British
+100,19/08/2024,7-Parents_4,100_numberblocks_3_4_4yos_190824.txt,BoB,371,Numberblocks,S3 E4,Fruit Salad,292,UK,Cartoon,Both,3,Parent,2018,British
+101,22/07/2024,8-Parents_5,101_bedtime-stories_5yos_220724.txt,BoB,646,Bedtime Stories,NA,Chris Hemsworth - Stormy Night,174,UK,Combination,Fiction,3,Parent,2022,British
+102,21/08/2024,8-Parents_5,102_mr-bean_1_43_5yos_210824.txt,Manual,645,Mr Bean: The Animated Series,S1 E43,A Running Battle,648,UK,Cartoon,Fiction,3,Parent,2002,British
+103,19/08/2024,8-Parents_5,103_octonauts_4_7_5yos_190824.txt,BoB,532,Octonauts,S4 E10,Octonauts and the Loneliest Whale,645,UK,Cartoon,Fiction,3,Parent,2015,British
+104,19/08/2024,8-Parents_5,104_bluey_1_12_5yos_190824.txt,Subtitle file,530,Bluey,S1 E12,Bob Bilby,422,Australia,Cartoon,Fiction,3,Parent,2018,Australian
+105,19/08/2024,8-Parents_5,105_andys-aquatic-adventures_2_13_5yos_190824.txt,BoB,462,Andy's Aquatic Adventures,S2 E13,Andy and the Sooty Tern,818,UK,Live-action,Both,3,Parent,2021,British
+106,28/08/2024,6-Parents_3,106_blippi_3yos_280824.txt,YouTube transcription,126,Blippi,NA,12 Days of Blippi and Meekah Christmas,305,USA,Live-action,Fiction,4,Parent,2023,American
+107,27/08/2024,6-Parents_3,107_p-j-masks_4_7_3yos_270824.txt,Subtitle file,128,PJ Masks,S4 E7,Asteroid Accident / All About Asteroids,1423,France,Cartoon,Fiction,4,Parent,2020,American
+108,27/08/2024,6-Parents_3,108_hey-duggee_2_10_3yos_270824.txt,BoB,44,Hey Duggee,S2 E10,The Honey Badge,405,UK,Cartoon,Fiction,4,Parent,2016,British
+109,27/08/2024,6-Parents_3,109_vampirina_2_4_3yos_270824.txt,Subtitle file,17,Vampirina,S2 E4,Baby Dragon / Gloommates,1411,USA,Cartoon,Fiction,4,Parent,2020,American
+110,28/08/2024,6-Parents_3,110_danny-go_3yos_280824.txt,YouTube transcription,192,Danny Go!,NA,Danny Go Learns About Love,809,USA,Live-action,Fiction,4,Parent,2022,American
+111,28/08/2024,7-Parents_4,111_thomas-and-friends_4yos_280824.txt,BoB,288,Thomas and Friends,S13 E13,Thomas and the Runaway Kite,554,UK,Cartoon,Fiction,4,Parent,2010,British
+112,27/08/2024,7-Parents_4,112_paw-patrol_2_6_4yos_270824.txt,Subtitle file,303,PAW Patrol,S2 E6,The New Pup,1364,Canada,Cartoon,Fiction,4,Parent,2014,British
+113,28/08/2024,7-Parents_4,113_something-special_9_17_4yos_280824.txt,BoB,304,Something Special: Hello Mr Tumble,S9 E17,Café,1135,UK,Live-action,Both,4,Parent,2014,British
+114,28/08/2024,7-Parents_4,114_gladiators_1_4_4yos_180824.txt,BoB,339,Gladiators,S1 E4,Episode 5,2100,UK,Live-action,Non-fiction,4,Parent,2024,British
+115,27/08/2024,7-Parents_4,115_cars-on-the-road_1_4_4yos_270824.txt,Subtitle file,441,Cars on the Road,S1 E4,The Legend,510,USA,Cartoon,Fiction,4,Parent,2022,American
+116,27/08/2024,8-Parents_5,116_teenage-mutant-ninja-turtles_1_15_5yos_270824.txt,Subtitle file,523,Teenage Mutant Ninja Turtles,S1 E15,The Alien Agenda,1371,USA,Cartoon,Fiction,4,Parent,2012,American
+117,28/08/2024,8-Parents_5,117_peter-rabbit_1_4_5yos_280824.txt,BoB,456,Peter Rabbit,S1 E4,The Tale of the Secret Treehouse,699,UK,Cartoon,Fiction,4,Parent,2013,British
+118,27/08/2024,8-Parents_5,118_henry-danger_2_9_5yos_270824.txt,Subtitle file,521,Henry Danger,S2 E9,Christmas Danger,1330,USA,Live-action,Fiction,4,Parent,2016,American
+119,28/08/2024,8-Parents_5,119_dora-the-explorer_8_19_5yos_280824.txt,BoB,531,Dora the Explorer,S8 E19,Dora and the Very Sleepy Bear,1279,USA,Cartoon,Fiction,4,Parent,2019,American
+120,05/09/2024,8-Parents_5,120_batwheels_1_4_5yos_050924.txt,Subtitle file,476,Batwheels,S1 E4,Up in the Air,660,USA,Cartoon,Fiction,4,Parent,2022,American
+1,02/04/2024,1-Platform_YouTube,1_hey-duggee_youtube_020424.txt,YouTube Transcript,NA,Hey Duggee,NA,The Best Characters from Hey Duggee,2066,UK,Cartoon,Fiction,1,Platform,2016,British
+2,02/04/2024,1-Platform_YouTube,2_peppa-pig-tales_1_41_youtube_020424.txt,YouTube Transcript,NA,Peppa Pig Tales,S1 E41,April Fools Joke/The Big Bug Museum/Pancake Day/Peppa at Playgroup,740,UK,Cartoon,Fiction,1,Platform,2023,British
+3,02/04/2024,1-Platform_YouTube,3_postman-pat_5_27_youtube_020424.txt,YouTube Transcript,NA,Postman Pat,S5 E27,Postman Pat's Ice'Capade,780,UK,Stop-motion,Fiction,1,Platform,2007,British
+4,09/04/2024,1-Platform_YouTube,4_blippi_youtube_090424.txt,YouTube Transcript,NA,Blippi,NA,Blippi Visits a Playground,746,USA,Live-action,Non-fiction,1,Platform,2022,American
+5,10/04/2024,1-Platform_YouTube,5_big-bloxx_youtube_090424.txt,YouTube Transcript,NA,BIG Bloxx,NA,Peppa Pig - Episode 01 The Playground,276,UK,Stop-motion,Fiction,1,Platform,2020,British
+6,02/04/2024,1-Platform_YouTube,6_my-little-pony_2_1_youtube_020424.txt,YouTube Transcript,NA,My Little Pony: Tell Your Tale,S2 E01,Icy Prints,314,USA,Cartoon,Fiction,1,Platform,2024,American
+7,02/04/2024,1-Platform_YouTube,7_peppa-pig-tales_youtube_020424.txt,YouTube Transcript,NA,Peppa Pig Tales,NA,Magnetic Slime Experiment/The Magic Lift/Celery Stick Falls/The Bouncy Maze,731,UK,Cartoon,Fiction,1,Platform,2024,British
+8,11/04/2024,2-Platform_Netflix,8_cocomelon_7_1_netflix_110424.txt,Manual,NA,Cocomelon,S7 E01,It's Cody Time,1949,USA,Cartoon,Fiction,1,Platform,2020,American
+9,29/05/2024,2-Platform_Netflix,9_little-lunch_1_7_netflix_290524.txt,Subtitle File,NA,Little Lunch,S1 E07,The Joke Competition,1469,Australia,Live-action,Fiction,1,Platform,2015,Australian
+10,09/04/2024,2-Platform_Netflix,10_cocomelon-lane_1_1_netflix_090424.txt,Subtitle File,NA,Cocomelon Lane,S1 E01,JJ's Firetruck Car Wash/Cody's Cake for Mommy/Nina's Wheels on the Bus,1281,USA,Cartoon,Fiction,1,Platform,2023,American
+11,10/04/2024,2-Platform_Netflix,11_peppa-pig_2_6_netflix_100424.txt,YouTube Transcript,NA,Peppa Pig,S2 E06,Tiny Creatures/Daddy Pig's Office/Pirate Island/George Catches a Cold,1120,UK,Cartoon,Fiction,1,Platform,2007,British
+12,22/05/2024,2-Platform_Netflix,12_bebefinn_1_2_netflix_220524.txt,Manual,NA,Bebefinn,S1 E02,Fun Daily Life with Bebefinn Family,1980,South Korea,Cartoon,Fiction,1,Platform,2022,American
+13,30/05/2024,2-Platform_Netflix,13_little-angel_3_3_netflix_300524.txt,Manual,NA,Little Angel,S3 E03,Playtime Sing Along,2093,Canada,Cartoon,Fiction,1,Platform,2023,American
+14,11/04/2024,3-Platform_Disney,14_super-kitties_1_23_disney_110424.txt,Manual,NA,Super Kitties,S1 E23,Cheesenado / Talented Troublemaker,1390,USA,Cartoon,Fiction,1,Platform,2023,American
+15,22/05/2024,3-Platform_Disney,15_quack-pack_1_25_disney_220524.txt,YouTube Transcript,NA,Quack Pack,S1 E25,Ducks by Nature,1329,USA,Cartoon,Fiction,1,Platform,1996,American
+16,22/05/2024,3-Platform_Disney,16_stuck-in-the-middle_1_12_disney_220524.txt,YouTube Transcript,NA,Stuck in the Middle,S1 E12,Stuck with No Rules,1395,USA,Live-action,Fiction,1,Platform,2016,American
+17,11/04/2024,3-Platform_Disney,17_little-einsteins_2_9_disney_110424.txt,Manual,NA,Little Einsteins,S2 E09,"Hello, Cello!",1546,USA,Cartoon,Fiction,1,Platform,2005,American
+18,22/05/2024,3-Platform_Disney,18_calling-all-tots_1_9_disney_220524.txt,Manual,NA,Calling All T.O.T.S.,S1 E09,Sunny The Sloth,120,USA,Cartoon,Fiction,1,Platform,2020,American
+19,10/04/2024,3-Platform_Disney,19_nature-boom-time_1_6_disney_100424.txt,YouTube Transcript,NA,Nature Boom Time,S1 E06,Hoh Rain Forest,380,USA,Live-action,Non-fiction,1,Platform,2023,American
+20,22/05/2024,4-Platform_iPlayer,20_hey-duggee_1_4_iplayer_220524.txt,BoB,NA,Hey Duggee,S1 E04,The Summer Holiday Badge,403,UK,Cartoon,Fiction,1,Platform,2015,British
+21,10/04/2024,4-Platform_iPlayer,21_bluey_1_17_iplayer_100424.txt,Subtitle File,NA,Bluey,S1 E17,Grannies,422,Australia,Cartoon,Fiction,1,Platform,2018,Australian
+22,22/05/2024,4-Platform_iPlayer,22_tiny-wonders_2_6_iplayer_220524.txt,Manual,NA,Tiny Wonders,S2 E06,Seaweed,380,UK,Live-action,Both,1,Platform,2023,British
+23,28/05/2024,4-Platform_iPlayer,23_yukee_1_2_iplayer_280524.txt,Manual,NA,Yukee,S1 E02,Stick in the Mud,410,UK,Cartoon,Fiction,1,Platform,2024,British
+24,29/05/2024,5-Platform_Amazon,24_tractor-ted_1_3_amazon_290524.txt,YouTube Transcript,NA,Tractor Ted,S1 E03,Timberrrrr!,600,UK,Live-action,Both,1,Platform,2022,British
+25,29/05/2024,5-Platform_Amazon,25_yakari_4_15_amazon_290524.txt,Manual,NA,Yakari,S4 E15,The Puma's Pawprints,720,France,Cartoon,Fiction,1,Platform,2016,American
+26,29/05/2024,5-Platform_Amazon,26_thomas-and-friends-carnival-day_1_2_amazon_290524.txt,Manual,NA,"Thomas and Friends, Carnival Day!",S1 E02,Panicky Percy,635,UK,Cartoon,Fiction,1,Platform,2019,British
+27,30/07/2024,1-Platform_YouTube,27_the-backyardigans_youtube_300724.txt,YouTube Transcript,NA,The Backyardigans,NA,"Backyardigans “Castaways” Song! w/ Uniqua, Pablo & Tyrone",174,USA,Cartoon,Fiction,2,Platform,2024,American
+28,01/08/2024,2-Platform_Netflix,28_barbie-dreamhouse-adventure_1_8_netflix_010824.txt,Manual,NA,Barbie Dreamhouse Adventure,S1 E08,The Roof Fairy,1300,USA,Cartoon,Fiction,2,Platform,2018,American
+29,30/07/2024,3-Platform_Disney,29_charlie-and-the-numbers_1_4_disney_300724.txt,YouTube Transcript,NA,Charlie & the Numbers,S1 E04,Charlie Meets No. 10 / No. 1's Horse / No. 2's Missing Crown,1145,Israel,Cartoon,Fiction,2,Platform,2010,British
+30,19/08/2024,1-Platform_YouTube,30_blippi_youtube_190824.txt,YouTube Transcript,NA,Blippi,NA,Blippi Learns At The Fire Station Tour,2100,USA,Live-action,Non-fiction,3,Platform,2020,American
+31,19/08/2024,1-Platform_YouTube,31_ms-rachel_youtube_190824.txt,YouTube Transcript,NA,Ms Rachel,NA,"Baby Learning with Ms Rachel - Baby Songs, Speech, Sign Language for Babies - Baby Videos",2100,USA,Live-action,Both,3,Platform,2022,American
+32,27/08/2024,2-Platform_Netflix,32_wonderoos_1_3_netflix_270824.txt,Manual,NA,Wonderoos,S1 E03,First Morning Routine,715,USA,Cartoon,Fiction,3,Platform,2024,American
+33,27/08/2024,3-Platform_Disney,33_mickeys-christmas-tales_1_2_disney_270824.txt,Manual,NA,Mickey's Christmas Tales,S1 E02,How to Build a Snowman,120,USA,Cartoon,Fiction,3,Platform,2023,American
+34,19/08/2024,4-Platform_iPlayer,34_colourblocks_2_5_iplayer_190824.txt,YouTube Transcript,NA,Colourblocks,S2 E05,Printing Crew to the Rescue,292,UK,Cartoon,Both,3,Platform,2024,British
+35,02/09/2024,5-Platform_Amazon,35_stick-man_amazon_020924.txt,Subtitle File,NA,Stick Man,NA,Stick Man,1569,UK,Cartoon,Fiction,3,Platform,2015,British
+36,28/08/2024,1-Platform_YouTube,36_hey-duggee_youtube_280824.txt,YouTube Transcript,NA,Hey Duggee,NA,Scientific Space Travels with the Squirrels,2056,UK,Cartoon,Fiction,4,Platform,2015,British
+37,28/08/2024,2-Platform_Netflix,37_octonauts-above-and-beyond_1_9_netflix_280824.txt,BoB,NA,Octonauts: Above & Beyond,S1 E09,The Octonauts and the Golden Mole / The Octonauts and the Giant Weta,1375,UK,Cartoon,Fiction,4,Platform,2021,British
+38,04/09/2024,2-Platform_Netflix,38_go-live-your-way_1_6_netflix_040924.txt,Manual,NA,Go! Live Your Way,S1 E06,Episode 6,2100,Argentina,Live-action,Fiction,4,Platform,2019,American
+39,27/08/2024,3-Platform_Disney,39_bluey_1_29_disney_270824.txt,BoB,NA,Bluey,S1 E29,The Creek,422,Australia,Cartoon,Fiction,4,Platform,2018,Australian
+40,28/08/2024,4-Platform_iPlayer,40_something-special_12_7_iplayer_280824.txt,Manual,NA,Something Special,S12 E07,Flying Fun,1232,UK,Live-action,Both,4,Platform,2020,British
+41,27/08/2024,5-Platform_Amazon,41_the-highway-rat_amazon_270824.txt,Subtitle File,NA,The Highway Rat,NA,The Highway Rat,1476,UK,Cartoon,Fiction,4,Platform,2018,British
